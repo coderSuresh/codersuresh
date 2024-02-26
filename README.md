@@ -4,9 +4,9 @@ I'm a self-motivated IT student from Nepal 🇳🇵. I am interested in Software
 
 **About me**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Web Development**
 
 **Languages and Tools:**
 
